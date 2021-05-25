@@ -1,0 +1,8 @@
+{
+  "name": "MyApp",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react",
+  "id": "d1d33a5e"
+}
